@@ -7,4 +7,4 @@ dekoder.org (2023): The Presidentâ€™s Words: A Term Frequency Analysis of Putinâ
 
 Full information on the datasets used in this project as well as links to articles making use of the datasets can be found at:  https://discuss-data.net/dataset/7e016752-2438-46c9-9526-d35d41c823a2/files/.
 
-
+The model used in the Hugging Face model code is:  j-hartmann/emotion-english-roberta-large
